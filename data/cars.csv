@@ -1,0 +1,58 @@
+﻿car_number,car_type,build_year,road_name,status,initial_industry,initial_spot,active
+723034,Boxcar,1972,BNSF,empty,Staging,,1
+419344,Boxcar,1980,CNA,empty,Staging,,1
+503041,Boxcar,1976,WSOR,loaded,Staging,,1
+416063,Boxcar,1972,CN ,loaded,Staging,,1
+513001,Gondola,1998,BNSF,empty,Staging,,1
+273344,Flat Car,1987,UP,empty,Staging,,1
+86363,Flat Car,1986,TTZX,empty,Staging,,1
+397387,Covered Hopper,1981,SKNX,empty,Staging,,1
+120042,Intermodal,1983,TTOX,empty,Staging,,1
+5037,Boxcar,1974,LUNX,empty,Staging,,1
+5034,Boxcar,1974,LUNX,empty,Staging,,1
+46646,Hopper Car,2007,NS,empty,Staging,,1
+46674,Hopper Car,2007,NS,empty,Staging,,1
+46657,Hopper Car,2007,NS,empty,Staging,,1
+46652,Hopper Car,2007,NS,empty,Staging,,1
+46680,Hopper Car,2007,NS,empty,Staging,,1
+401013,Covered Hopper,1972,BNSF,empty,Staging,,1
+441492,Cement Car,1987,BN ,empty,Staging,,1
+441327,Cement Car,1987,BN ,empty,Staging,,1
+164081,Coil Car,1991,NS,empty,Staging,,1
+145,Hopper Car,1971,DEEX,empty,Staging,,1
+401545,Cement Car,1978,SP,empty,Staging,,1
+782108,Boxcar,1977,MP,empty,Staging,,1
+660121,Boxcar,1983,TBOX,empty,Staging,,1
+584986,Flat Car,1985,BNSF,loaded,Staging,,1
+869378,Flat Car,1980,BCOL,empty,Staging,,1
+9421,Boxcar,2008,SRY,empty,Staging,,1
+55220,Gondola,1988,WC,empty,Staging,,1
+92382,Flat Car,2007,OTTX,empty,Staging,,1
+22028,Covered Hopper,1987,CAGX,empty,Staging,,1
+254038,Covered Hopper,1972,NS,empty,Staging,,1
+344996,Hopper Car,1974,CSXT,empty,Staging,,1
+286012,Tank Car,2011,TCBX,empty,Staging,,1
+259434,Tank Car,2014,DPRX,empty,Staging,,1
+662984,Boxcar,1983,TBOX,empty,Staging,,1
+471308,Boxcar,1980,NS,empty,Staging,,1
+615,Boxcar,1989,WRWK,empty,Staging,,1
+12280,Tank Car,1977,UTLX,empty,Staging,,1
+12271,Tank Car,1977,UTLX,empty,Staging,,1
+12297,Tank Car,1977,UTLX,empty,Staging,,1
+800171,Gondola,1967,KCS,empty,Staging,,1
+800279,Gondola,1967,KCS,empty,Staging,,1
+800864,Gondola,1967,KCS,empty,Staging,,1
+8396,Hopper Car,2007,HZGX,empty,Staging,,1
+8455,Hopper Car,2007,HZGX,empty,Staging,,1
+8554,Hopper Car,2007,HZGX,empty,Staging,,1
+725713,Boxcar,1972,BNSF,empty,Staging,,1
+366838,Boxcar,1974,MP,empty,Staging,,1
+430510,Covered Hopper,1998,BNSF,empty,Staging,,1
+121061,Covered Hopper,1973,UNPX,empty,Staging,,1
+723647,Boxcar,1974,BNSF,empty,Staging,,1
+10122,Boxcar,1986,WCRC,empty,Staging,,1
+523023,Boxcar,1975,SOU,empty,Staging,,1
+408121,Cement Car,1995,BNSF,empty,Staging,,1
+900035,Covered Hopper,1987,NAHX,empty,Staging,,1
+431023,Covered Hopper,2007,BNSF,empty,Staging,,1
+33642,Boxcar,1979,RBOX,empty,Staging,,1

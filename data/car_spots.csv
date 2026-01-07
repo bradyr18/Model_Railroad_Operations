@@ -1,0 +1,24 @@
+﻿spot_id,industry_name,industry_type,spot_name,capacity,service_frequency,allowed_car_types
+1,Elevator,Industry,1,1,0.5,Covered Hopper
+2,Elevator,Industry,2,1,0.5,Covered Hopper
+3,Elevator,Industry,3,1,0.5,Covered Hopper
+4,Lumber,Industry,1,1,0.5,"Boxcar, Flat Car"
+5,Lumber,Industry,2,1,0.5,"Boxcar, Flat Car"
+6,Lumber,Industry,3,1,0.5,"Boxcar, Flat Car"
+7,Lumber,Industry,4,1,0.5,"Boxcar, Flat Car"
+8,Lumber,Industry,5,1,0.5,"Boxcar, Flat Car"
+9,Cement,Industry,1,1,0.5,Cement Car
+10,Cement,Industry,2,1,0.5,Cement Car
+11,Factory,Industry,1,1,0.5,Boxcar
+12,Factory,Industry,2,1,0.5,Boxcar
+13,Factory,Industry,3,1,0.5,Boxcar
+14,Factory,Industry,4,1,0.5,Boxcar
+15,Factory,Industry,5,1,0.5,Boxcar
+16,Factory,Industry,6,1,0.5,Boxcar
+17,Chemical,Industry,1,1,0.5,"Boxcar, Tank car"
+18,Chemical,Industry,2,1,0.5,"Boxcar, Tank car"
+19,Chemical,Industry,3,1,0.5,"Boxcar, Tank car"
+20,Yard,Yard,Yard1,5,,
+21,Yard,Yard,Yard2,5,,
+22,Yard,Yard,Yard3,5,,
+23,Staging,Off-Layout,OFF_LAYOUT,999,,
