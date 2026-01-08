@@ -10,6 +10,16 @@ OFF_LAYOUT_SPOT_NAME = "OFF_LAYOUT"
 conn = sqlite3.connect(DB_PATH)
 cur = conn.cursor()
 
+mode = input("Replace existing cars or append? [R/A]: ").strip().upper()
+if mode not in ("R", "A"):
+    raise RuntimeError("Invalid choice. Enter R or A.")
+
+if mode == "R":
+    print("⚠️ Replacing existing cars...")
+    cur.execute("DELETE FROM cars")
+    cur.execute("DELETE FROM sqlite_sequence WHERE name='cars'")
+    conn.commit()
+
 with open(CSV_PATH, newline="", encoding="utf-8-sig") as f:
     reader = csv.DictReader(f)
     print("CSV columns detected:", reader.fieldnames)
